@@ -1,6 +1,6 @@
 Cold and dry, but everything is my favorite color. I love it so much.
+<<<<<<< HEAD
 The two moons may be a problem for Wolfman
-But the mummy will appreciate the lack of humidity
-Zachary has a question
-Will this answer Zachary's question?
 
+=======
+>>>>>>> parent of bed4f50 (Add more)
